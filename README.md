@@ -10,6 +10,9 @@ Requires pcb_din_clip_v2 from the Voron Trident.
 BOM
 
 1x pcb_din_clip_v2 (printed)
+
 2x M2 x 10 Self-tapping Screws for plastic
+
 4x M3x8 screws (socket head or others
+
 1x Raspberry Pi Zero (V2 or original)

@@ -13,6 +13,6 @@ BOM
 
 2x M2 x 10 Self-tapping Screws for plastic
 
-4x M3x8 screws (socket head or others
+4x M2.5x6 screws (socket head or others
 
 1x Raspberry Pi Zero (V2 or original)
